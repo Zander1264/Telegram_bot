@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b9c078c-13ff-4b80-a370-54e3c02082f6" name="Changes" comment="Added show tasks and async framework for bot usage">
+    <list default="true" id="6b9c078c-13ff-4b80-a370-54e3c02082f6" name="Changes" comment="Added full async show and save tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752671884587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added full async show and save tasks">
+      <option name="closed" value="true" />
+      <created>1752675174509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752675174509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +158,7 @@
     <MESSAGE value="First commit simple programm for studying bot programming on python" />
     <MESSAGE value="Added command add-task and its writing to sqlite3" />
     <MESSAGE value="Added show tasks and async framework for bot usage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added show tasks and async framework for bot usage" />
+    <MESSAGE value="Added full async show and save tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added full async show and save tasks" />
   </component>
 </project>
